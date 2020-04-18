@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div>
+    <h3>Add Course: </h3>
+    <form action="/Home/Course" method="post">
+        <input type="text" name="Title" placeholder="Title"/>
+        <input type="text" name="SeatCount" placeholder="SeatCount"/>
+        <input type="text" name="Fee" placeholder="Fee"/>
+        <input type="submit" value="Submit"/>
+    </form>
+</div>
+<br />
+<div>
+    <h3>Add Student: </h3>
+    <form action="/Home/Index" method="post">
+        <input type="text" name="Name" placeholder="Name"/>
+        <input type="datetime" name="DateOfBirth" placeholder="MM/DD/YYYY"/>
+        <input type="submit" value="Submit" />
+    </form>
+</div>
+<br />
+<div>
+    <h3>Add Student Registration: </h3>
+    <form action="/Home/Registration" method="post">
+        <input type="text" name="StudentId" placeholder="StudentId" />
+        <input type="text" name="CourseId" placeholder="CourseId" />
+        <input type="datetime" name="EnrollDate" placeholder="MM/DD/YYYY" />
+        <input type="text" name="isPaymentComplete" placeholder="isPaymentComplete" />
+        <input type="submit" value="Submit" />
+    </form>
+</div>
+
