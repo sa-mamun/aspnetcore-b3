@@ -1,0 +1,17 @@
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Data\bin\Debug\netcoreapp3.1\SamTech.Exam.Data.deps.json
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Data\bin\Debug\netcoreapp3.1\SamTech.Exam.Data.dll
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Data\obj\Debug\netcoreapp3.1\SamTech.Exam.Data.AssemblyInfoInputs.cache
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Data\obj\Debug\netcoreapp3.1\SamTech.Exam.Data.AssemblyInfo.cs
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Data\bin\Debug\netcoreapp3.1\SamTech.Exam.Data.pdb
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Data\obj\Debug\netcoreapp3.1\SamTech.Exam.Data.csproj.CoreCompileInputs.cache
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Data\obj\Debug\netcoreapp3.1\SamTech.Exam.Data.dll
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Data\obj\Debug\netcoreapp3.1\SamTech.Exam.Data.pdb
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Data\bin\Debug\netcoreapp3.1\SamTech.Exam.Data.deps.json
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Data\bin\Debug\netcoreapp3.1\SamTech.Exam.Data.dll
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Data\bin\Debug\netcoreapp3.1\SamTech.Exam.Data.pdb
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Data\obj\Debug\netcoreapp3.1\SamTech.Exam.Data.csprojAssemblyReference.cache
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Data\obj\Debug\netcoreapp3.1\SamTech.Exam.Data.csproj.CoreCompileInputs.cache
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Data\obj\Debug\netcoreapp3.1\SamTech.Exam.Data.AssemblyInfoInputs.cache
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Data\obj\Debug\netcoreapp3.1\SamTech.Exam.Data.AssemblyInfo.cs
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Data\obj\Debug\netcoreapp3.1\SamTech.Exam.Data.dll
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Data\obj\Debug\netcoreapp3.1\SamTech.Exam.Data.pdb

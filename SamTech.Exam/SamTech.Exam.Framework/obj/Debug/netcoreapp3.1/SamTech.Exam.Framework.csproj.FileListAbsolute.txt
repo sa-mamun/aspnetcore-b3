@@ -1,0 +1,24 @@
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Framework\bin\Debug\netcoreapp3.1\SamTech.Exam.Data.dll
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.csprojAssemblyReference.cache
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.AssemblyInfoInputs.cache
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.AssemblyInfo.cs
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Framework\bin\Debug\netcoreapp3.1\SamTech.Exam.Framework.deps.json
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Framework\bin\Debug\netcoreapp3.1\SamTech.Exam.Framework.dll
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Framework\bin\Debug\netcoreapp3.1\SamTech.Exam.Framework.pdb
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Framework\bin\Debug\netcoreapp3.1\SamTech.Exam.Data.pdb
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.csproj.CoreCompileInputs.cache
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.csproj.CopyComplete
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.dll
+D:\ASP Practice MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.pdb
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Framework\bin\Debug\netcoreapp3.1\SamTech.Exam.Framework.deps.json
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Framework\bin\Debug\netcoreapp3.1\SamTech.Exam.Framework.dll
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Framework\bin\Debug\netcoreapp3.1\SamTech.Exam.Framework.pdb
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Framework\bin\Debug\netcoreapp3.1\SamTech.Exam.Data.dll
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Framework\bin\Debug\netcoreapp3.1\SamTech.Exam.Data.pdb
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.csprojAssemblyReference.cache
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.csproj.CoreCompileInputs.cache
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.AssemblyInfoInputs.cache
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.AssemblyInfo.cs
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.csproj.CopyComplete
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.dll
+D:\Asp_Net_MVC\SamTech.Exam\SamTech.Exam.Framework\obj\Debug\netcoreapp3.1\SamTech.Exam.Framework.pdb
